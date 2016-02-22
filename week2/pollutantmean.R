@@ -1,4 +1,4 @@
-setwd("~/Desktop/Online Coursera/Coursera-R-Programming/week2/")
+##setwd("C:\Users\IBM_ADMIN\Documents\R_Code_AO\Coursera-R-Programming\week2")
 #getwd()
 #list.files()
 

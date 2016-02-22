@@ -1,4 +1,4 @@
-setwd("~/Desktop/Online Coursera/Coursera-R-Programming/week2/")
+##setwd("~/Desktop/Online Coursera/Coursera-R-Programming/week2/")
 
 corr <- function(directory, threshold = 0) {
     ## 'directory' is a character vector of length 1 indicating
